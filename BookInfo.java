@@ -29,6 +29,10 @@ public class BookInfo {
 	public void setPress(String press) {
 		Press = press;
 	}
+	public BookInfo() {
+		
+	}
+
 
 	public BookInfo(int rank, String title, String price, String press) {
 		Rank = rank;
