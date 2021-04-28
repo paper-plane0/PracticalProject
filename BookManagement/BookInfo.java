@@ -32,8 +32,6 @@ public class BookInfo {
 	public BookInfo() {
 		
 	}
-
-
 	public BookInfo(int rank, String title, String price, String press) {
 		Rank = rank;
 		Title = title;
